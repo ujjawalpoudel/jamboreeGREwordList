@@ -50,6 +50,30 @@ Please Enter Number
 
 After run project, you need to select number accordint to your revision plan.
 
+## Project Folder Structure
+```
+jamboreeGREwordList/
+├── README.md
+├── vocab.py
+└── word_list
+    ├── __init__.py
+    ├── list10.py
+    ├── list11.py
+    ├── list12.py
+    ├── list13.py
+    ├── list14.py
+    ├── list1.py
+    ├── list2.py
+    ├── list3.py
+    ├── list4.py
+    ├── list5.py
+    ├── list6.py
+    ├── list7.py
+    ├── list8.py
+    ├── list9.py
+
+```
+
 
 ## 🚀 About Me
 Computer Engineer | Python Programmer | AI, Machine Learning & Data Science Enthusiast
