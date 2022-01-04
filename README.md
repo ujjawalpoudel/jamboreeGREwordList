@@ -18,9 +18,21 @@ Each and every words are attached with group, basically antonyms and synonyms.
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
 
-## Deployment
+## Run Locally
 
-To deploy this project run
+Clone the project
+
+```bash
+  git clone git@github.com:ujjawalpoudel/jamboreeGREwordList.git
+```
+
+Go to the project directory
+
+```bash
+  cd jamboreeGREwordList
+```
+
+Run Proejct
 
 ```bash
   python vocab.py
