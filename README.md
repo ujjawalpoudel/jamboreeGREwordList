@@ -14,10 +14,6 @@ Each and every words are attached with group, basically antonyms and synonyms.
 - [@ujjawalpoudel](https://github.com/ujjawalpoudel)
 
 
-## Badges
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
-
-
 ## Run Locally
 
 Clone the project
