@@ -3,7 +3,7 @@ import time
 from datetime import datetime
 from os import system
 
-from vocabulary import *
+from word_list import *
 
 startTime = datetime.now()
 
